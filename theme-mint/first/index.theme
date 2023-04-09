@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=first
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Kripton-standard-buttons-v40
+MetacityTheme=Kripton
+IconTheme=candy-icons
+GtkColorScheme=sidebar_fg:#727272
+CursorTheme=default
+CursorSize=24

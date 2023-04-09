@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=2.0
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Juno-ocean-standard-buttons
+MetacityTheme=Kripton
+IconTheme=candy-icons
+GtkColorScheme=sidebar_fg:#6F7678
+CursorTheme=DMZ-Black
+CursorSize=24
